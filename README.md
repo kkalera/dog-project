@@ -4,6 +4,9 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## My solution for the dog breed classifier
+Hi, this is my solution for the project described below. Feel free to borrow code or check out how I did something if you're stuck!
+
 
 ## Project Overview
 
